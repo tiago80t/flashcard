@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que é javascript',
-    'JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.'
+    'O que e programacao?',
+    'Programação é o processo de escrita, teste e manutenção de um programa de computador. '
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital do brasil?',
-    'A capital do brasil e brasilia'
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
     'Programação',
-    'O que é programacao ?',
-    'Programação é o processo de escrita, teste e manutenção de um programa de computador.'
+    'O que é javascript?',
+    'JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'como fala oi em frança  ?',
-    'oi em françes e hé (RAI)'
+    'Como se diz oi em francês?',
+    'Oi em fran'
 )
